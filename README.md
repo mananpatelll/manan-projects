@@ -38,13 +38,13 @@ Before you can run the chatbot, ensure you have the following prerequisites:
 1. Clone the project repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/ai-admission-inquiry-chatbot.git
+   
    ```
 
 2. Install the required Python packages using pip:
 
    ```shell
-   pip install -r requirements.txt
+  
    ```
 
 3. Set up the MySQL database. You can do this by running the provided SQL script to create the necessary tables.
